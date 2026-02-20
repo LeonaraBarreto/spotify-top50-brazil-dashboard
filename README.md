@@ -1,22 +1,75 @@
-## 🎧 Spotify Top 50 Brasil - Análise de Dados
+# 🎧 Spotify Analytics Dashboard (Power BI)
 
-Projeto de análise do ranking Top 50 músicas mais tocadas no Brasil, utilizando Power BI.
+Projeto de análise de dados utilizando Power BI com foco em visualização e geração de insights a partir de dados do Spotify.
 
-### 📊 Objetivo
-Explorar as músicas mais populares e entender padrões como:
-- Músicas com mais streams
-- Permanência na playlist
-- Ranking das músicas
+## 📌 Contexto do Projeto
 
-### 🛠️ Ferramentas
+Projeto desenvolvido como parte dos estudos em análise de dados, com foco na criação de dashboards interativos e interpretação de métricas.
+
+---
+
+## 📊 Dashboard
+
+### Visão Geral
+![Visão geral do dashboard](assets/03_dashboard_overview.png)
+
+### Detalhamento
+![Detalhamento do dashboard](assets/04_dashboard_detalhes.png)
+
+---
+
+## 🧹 Tratamento de Dados (Power Query)
+
+### Dados antes do tratamento
+![Dados brutos](assets/01_dados_brutos.png)
+
+### Dados após tratamento
+![Dados tratados](assets/02_dados_tratados.png)
+
+### Principais transformações:
+- Remoção de valores nulos
+- Ajuste de tipos de dados
+- Criação de colunas de data (ano/mês)
+- Padronização de nomes
+- Limpeza de duplicidades
+
+---
+
+## 🧠 Modelagem de Dados
+
+Modelo em estrela com:
+- Fato de reproduções
+- Dimensão de artistas
+- Dimensão de músicas
+- Dimensão de tempo
+
+---
+
+## 📈 Principais Insights
+
+- Identificação dos artistas mais ouvidos
+- Evolução das reproduções ao longo do tempo
+- Ranking de músicas mais populares
+- Comparação entre períodos
+
+---
+
+## 🛠️ Ferramentas utilizadas
+
 - Power BI
 - Power Query
 - DAX
 
-### 📁 Dados
-Os dados foram tratados a partir de uma base bruta, passando por limpeza e modelagem no Power Query.
+---
 
-### 📌 Principais Insights
-- Identificação da música mais tocada
-- Ranking Top 10 por streams
-- Músicas com maior tempo de permanência na playlist
+## 🚀 Como visualizar
+
+1. Baixe o arquivo `.pbix`
+2. Abra no Power BI Desktop
+
+---
+
+## 👩‍💻 Autora
+
+**Leonara Barreto (Nara)**  
+[https://www.linkedin.com/in/leonarabarreto/]
