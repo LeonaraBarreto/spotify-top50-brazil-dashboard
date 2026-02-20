@@ -28,10 +28,10 @@ Projeto de análise de dados utilizando Power BI para explorar o comportamento d
 ## 🧹 Tratamento de Dados (Power Query)
 
 ### Dados antes do tratamento
-![Dados tratados](imagens/02_dados_tratados.jpg)
+![Dados tratados](imagens/02_dados_brutos.jpg)
 
 ### Dados após tratamento
-![Dados brutos](imagens/01_dados_brutos.jpg)
+![Dados brutos](imagens/01_dados_tratados.jpg)
 
 ### Principais transformações:
 - Remoção de valores nulos
