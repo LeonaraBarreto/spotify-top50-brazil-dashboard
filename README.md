@@ -11,20 +11,20 @@ Projeto desenvolvido como parte dos estudos em análise de dados, com foco na cr
 ## 📊 Dashboard
 
 ### Visão Geral
-![Visão geral do dashboard](assets/03_dashboard_overview.png)
+![Visão geral do dashboard](imagens/03_dashboard_overview.png)
 
 ### Detalhamento
-![Detalhamento do dashboard](assets/04_dashboard_detalhes.png)
+![Detalhamento do dashboard](imagens/04_dashboard_detalhes.png)
 
 ---
 
 ## 🧹 Tratamento de Dados (Power Query)
 
 ### Dados antes do tratamento
-![Dados brutos](assets/01_dados_brutos.png)
+![Dados brutos](imagens/01_dados_brutos.png)
 
 ### Dados após tratamento
-![Dados tratados](assets/02_dados_tratados.png)
+![Dados tratados](imagens/02_dados_tratados.png)
 
 ### Principais transformações:
 - Remoção de valores nulos
