@@ -1,10 +1,17 @@
-# 🎧 Spotify Analytics Dashboard (Power BI)
+# 🎧 Spotify Top 50 Brasil - Dashboard de Análise de Dados (Power BI)
 
 Projeto de análise de dados utilizando Power BI com foco em visualização e geração de insights a partir de dados do Spotify.
 
 ## 📌 Contexto do Projeto
 
-Projeto desenvolvido como parte dos estudos em análise de dados, com foco na criação de dashboards interativos e interpretação de métricas.
+Projeto de análise de dados utilizando Power BI para explorar o comportamento das músicas mais tocadas no Spotify Brasil, gerando insights sobre popularidade, tendência e performance de artistas.
+
+### 📈 Principais Insights
+
+- A distribuição de streams não é homogênea: poucas músicas concentram grande parte das reproduções
+- A recorrência de artistas no Top 50 indica alta concentração de mercado
+- Músicas com maior permanência na playlist tendem a acumular mais streams
+- Existem padrões de crescimento e queda ao longo do tempo, indicando ciclos de popularidade
 
 ---
 
@@ -35,22 +42,12 @@ Projeto desenvolvido como parte dos estudos em análise de dados, com foco na cr
 
 ---
 
-## 🧠 Modelagem de Dados
+## 🧠 O que foi desenvolvido
 
-Modelo em estrela com:
-- Fato de reproduções
-- Dimensão de artistas
-- Dimensão de músicas
-- Dimensão de tempo
-
----
-
-## 📈 Principais Insights
-
-- Identificação dos artistas mais ouvidos
-- Evolução das reproduções ao longo do tempo
-- Ranking de músicas mais populares
-- Comparação entre períodos
+- Tratamento de dados com Power Query
+- Criação de modelo relacional em estrela
+- Desenvolvimento de medidas com DAX
+- Construção de dashboard interativo
 
 ---
 
@@ -72,4 +69,4 @@ Modelo em estrela com:
 ## 👩‍💻 Autora
 
 **Leonara Barreto (Nara)**  
-[https://www.linkedin.com/in/leonarabarreto/]
+[LinkedIn](https://www.linkedin.com/in/leonarabarreto/)
