@@ -21,10 +21,10 @@ Projeto desenvolvido como parte dos estudos em análise de dados, com foco na cr
 ## 🧹 Tratamento de Dados (Power Query)
 
 ### Dados antes do tratamento
-![Dados brutos](imagens/01_dados_brutos.jpg)
+![Dados tratados](imagens/02_dados_tratados.jpg)
 
 ### Dados após tratamento
-![Dados tratados](imagens/02_dados_tratados.jpg)
+![Dados brutos](imagens/01_dados_brutos.jpg)
 
 ### Principais transformações:
 - Remoção de valores nulos
